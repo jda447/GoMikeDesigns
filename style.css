@@ -281,6 +281,7 @@ a:hover {
 .row.row-no-gutters > [class*=" col-"] {
     padding-right: 0;
     padding-left: 0;
+    margin: 28px 0px;
 }
 
 #bloc-2-services p {
@@ -647,11 +648,14 @@ h5,
 h6,
 p,
 label,
-.btn,
-a {
+.btn {
     font-family: "helvetica";
     font-weight: 400;
     color: #575757!important;
+}
+
+a {
+    color: white;
 }
 
 .container {
@@ -781,7 +785,7 @@ h4 {
 }
 
 .tc-white {
-    color: #364577!important;
+    color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine {
@@ -1039,4 +1043,48 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+}
+
+h1 {
+    font-size: 2em;
+    font-family:  "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial;
+}
+
+em {
+    font-size: 1.5em;
+}
+
+.text-center-text {
+    font-size: 1.1em;
+    text-align: center;
+}
+
+.text-center-header {
+    font-size: 2em;
+}
+
+.text-center-footer {
+    font-size: 1.6em;
+    text-align: center;
+}
+
+.text-center-info {
+    font-size: 1em;
+    text-align: center;
+}
+
+.text-center-white {
+    text-align: center;
+    letter-spacing: 0.1rem;
+}
+
+.text-center-page2 {
+    font-size: 1.2em;
+    float: left;
+}
+
+.contact-info {
+    font-size: 1.2em;
+    color: black;
+    margin: 20px 0px;
 }
