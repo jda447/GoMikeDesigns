@@ -1066,6 +1066,7 @@ em {
 .text-center-text {
     font-size: 1.1em;
     text-align: center;
+    color: black;
 }
 
 .text-center-header {
