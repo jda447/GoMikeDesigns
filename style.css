@@ -805,6 +805,13 @@ h4 {
 
 .btn-atomic-tangerine1 {
     background: #364577;
+    color: #FFFFFF!important;
+}
+
+.btn-atomic-tangerine1:hover {
+    opacity: 0.9;
+    color: #FFFFFF!important;
+    font-size: 1.2em;
 }
 
 .btn-atomic-tangerine:hover {
