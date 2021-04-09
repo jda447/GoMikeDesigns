@@ -644,15 +644,19 @@ a[data-lightbox]:hover img {
 h1,
 h2,
 h3,
-h4,
 h5,
 h6,
 p,
 label,
 .btn {
-    font-family: "helvetica";
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial;
     font-weight: 400;
     color: #575757!important;
+}
+
+h4 {
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial;
+    color: white;
 }
 
 a {
@@ -692,7 +696,7 @@ p {
 
 .h1 {
     font-size: 20px;
-    font-family: "Open Sans";
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial;
 }
 
 .cta-hero {
@@ -719,7 +723,7 @@ p {
 }
 
 h2 {
-    font-size: 22px;
+    font-size: 26px;
     line-height: 1.4em;
 }
 
@@ -737,10 +741,6 @@ h3 {
 }
 
 h1 {
-    color: #333333!important;
-}
-
-h4 {
     color: #333333!important;
 }
 
@@ -1099,6 +1099,7 @@ em {
 .text-center-page2 {
     font-size: 1.2em;
     float: left;
+    margin: 0px 0px 20px 0px;
 }
 
 .contact-info {
