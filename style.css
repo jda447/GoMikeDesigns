@@ -364,6 +364,9 @@ a:hover {
 }
 
 @media (min-width: 768px) {
+    body {
+        width: 100%;
+    }
     .site-navigation {
         position: absolute;
         top: 50%;
@@ -859,6 +862,9 @@ h1 {
 }
 
 @media (max-width: 1024px) {
+    body {
+        width: 100%;
+    }
     .bloc {
         padding-left: 20px;
         padding-right: 20px;
@@ -873,6 +879,9 @@ h1 {
 }
 
 @media (max-width: 992px) and (min-width: 768px) {
+    body {
+        width: 100%;
+    }
     .navbar .nav {
         max-width: 80%
     }
@@ -882,6 +891,9 @@ h1 {
 }
 
 @media only screen and (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+    body {
+        width: 100%;
+    }
     .b-parallax {
         background-attachment: scroll;
     }
@@ -894,6 +906,9 @@ h1 {
 }
 
 @media (max-width: 991px) {
+    body {
+        width: 100%;
+    }
     .container {
         width: 100%;
     }
@@ -917,6 +932,9 @@ h1 {
 }
 
 @media (max-width: 767px) {
+    body {
+        width: 100%;
+    }
     .page-container {
         overflow-x: hidden;
         position: relative;
@@ -1056,6 +1074,9 @@ h1 {
 }
 
 @media (max-width: 400px) {
+    body {
+        width: 100%;
+    }
     .bloc {
         padding-left: 0;
         padding-right: 0;
