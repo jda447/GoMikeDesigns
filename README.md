@@ -1,4 +1,4 @@
-4 - SEO Search Engine Optimization
+Project 3 - SEO Search Engine Optimization
 
 GoMikeDesigns
 
